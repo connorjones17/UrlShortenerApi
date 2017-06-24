@@ -72,8 +72,8 @@ If you try and access a short url that does not exist you will receive a 404 sta
 Clone this repository to your local machine and go into the root of the app
 
 ```
-$ git@github.com:connorjones17/UrlShortenerApi.git
-$ cd UrlShortenerApi
+$ git clone git@github.com:connorjones17/UrlShortenerApi.git
+$ cd UrlShortenerApi/
 ```
 
 Install all the dependencies we require
