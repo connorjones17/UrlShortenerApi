@@ -6,9 +6,9 @@ Url Shortener has an api that you can create your own short urls from as well as
 
 <h3>Contents</h3>
 1. <a href="#api">Api</a> <br />
-3. <a href="#errors">Errors</a>  <br />
-2. <a href="#setup">Setup</a>  <br />
-3. <a href="#testing">Testing</a>  <br />
+2. <a href="#errors">Errors</a>  <br />
+3. <a href="#setup">Setup</a>  <br />
+4. <a href="#testing">Testing</a>  <br />
 
 <hr>
 
